@@ -1,0 +1,41 @@
+
+Qual a diferença de Linguagem Compilada ou Interpretada?
+
+Linguagem compilada:
+
+Word.exe (Windows)
+
+O processo de compilar, transforma o código escrito, em linguagem de máquina
+
+
+Código fonte > compilador > Executável (Linguagem de Máquina, binário)
+
+
+Interpretada:
+
+Não existe um compilador para transformar o códidgo em binário
+
+Código Fonte > Interpretador > Saída
+
+O processo fica mais simples, por ser mais portátil entre Sistemas Operacionais
+
+A interpretação é feita através de um interpretador.
+
+
+
+
+
+REPL:
+
+A read Eval Print Loop
+
+Ler, interpretar, mostrar na tela, voltar a ler
+
+
+REPL do Ruby é o IRB (Interactive Ruby)
+
+
+
+
+
+
